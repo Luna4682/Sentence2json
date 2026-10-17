@@ -1,0 +1,1 @@
+bfd7b2ed692a46d27c45fa46340c7115cd09703986f3efb6f1acf530d4aa628f  fact-r8-q8_0.gguf
